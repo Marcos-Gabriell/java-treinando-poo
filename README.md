@@ -10,7 +10,6 @@ Este é o repositório do projeto desenvolvido para aprimorar habilidades em Pro
   
 </div><br>
 
-
 ## Descrição
 
 O projeto é uma aplicação que visa aprofundar o entendimento de conceitos de Programação Orientada a Objetos (POO) por meio da implementação de um sistema simples. O projeto permite praticar a criação de classes, encapsulamento, herança, polimorfismo e outros pilares da POO.
