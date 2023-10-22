@@ -2,7 +2,6 @@
 
 Este é o repositório do projeto desenvolvido para aprimorar habilidades em Programação Orientada a Objetos (POO), com foco na aplicação de conceitos e práticas em um projeto prático.
 
-
 ## Linguagens e ferramentas  usadas
 <div >
       <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
