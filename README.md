@@ -2,6 +2,15 @@
 
 Este é o repositório do projeto desenvolvido para aprimorar habilidades em Programação Orientada a Objetos (POO), com foco na aplicação de conceitos e práticas em um projeto prático.
 
+
+## Linguagens e ferramentas  usadas
+<div >
+      <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+      <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  
+</div><br>
+
+
 ## Descrição
 
 O projeto é uma aplicação que visa aprofundar o entendimento de conceitos de Programação Orientada a Objetos (POO) por meio da implementação de um sistema simples. O projeto permite praticar a criação de classes, encapsulamento, herança, polimorfismo e outros pilares da POO.
